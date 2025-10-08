@@ -22,7 +22,7 @@
 
 ```bash
 pip install streamlit transformers torch langdetect
-streamlit run chatbot_app.py
+streamlit run main.py
 ```
 
 ## 🎮 Использование
